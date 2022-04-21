@@ -1,7 +1,0 @@
-{
- "name": "QuantumultX_Task",
- "description": "QuantumultX_Task",
- "task": [
-    "0 0 1 1/1 * ? https://raw.githubusercontent.com/zhucp18/QuantumultX/main/Scripts/caihongjiepai.js, tag=彩虹签到, img-url=leaf.fill.system",
- ]
-}
